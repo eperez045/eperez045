@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React...**
 
-- 📫 How to reach me **eperez@gmail.com**
+- 📫 How to reach me **eperez045@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
