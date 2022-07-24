@@ -24,7 +24,7 @@
 
 ### 🖼️ Frameworks
 
- <img title="Node.js" alt="Node.js" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">  <img title="Express" alt="Express" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">  <img title="React" alt="React" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">  <img title="Jest" alt="Jest" width="55px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"> 
+ <img title="Node.js" alt="Node.js" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">  <img title="Express" alt="Express" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">  <img title="React" alt="React" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Angular" alt="Angular" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">  <img title="Jest" alt="Jest" width="55px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"> 
 
 ### :wrench: Tools
 
