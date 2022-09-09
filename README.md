@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Elena Pérez Calvo</h1>
 <h3 align="center">A passionate web developer from Barcelona (Spain)</h3>
 
-- 👨‍💻 All of my projects are available at [ https://eperez045.github.io/portfolio-elena/]( https://eperez045.github.io/portfolio-elena/) (I need to catch up and update)
+- 👨‍💻 All of my projects are available at [ https://eperez045.github.io/portfolio-elena/]( https://eperez045.github.io/portfolio-elena/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React...**
+- 💬 Love **HTML, CSS, JavaScript, React...**
 
 - 📫 How to reach me **eperez045@gmail.com**
 
