@@ -8,8 +8,7 @@
 - :email: Email me **eperez045@gmail.com**
 <div align="center">
   <a href="https://github.com/eperez045">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eperez045&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eperez045&layout=compact&langs_count=16&theme=dracula&include_all_commits=truecount_private=true"/>
+  
 </div>
 
 <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="240" align='right'/>
